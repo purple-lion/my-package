@@ -1,0 +1,20 @@
+{
+  "name": "my-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purple-lion/my-package.git"
+  },
+  "keywords": [],
+  "author": "Pyunghyuk Yoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/purple-lion/my-package/issues"
+  },
+  "homepage": "https://github.com/purple-lion/my-package#readme"
+}
